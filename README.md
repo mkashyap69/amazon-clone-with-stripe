@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Site Deployed At
+https://serene-swirles-f597a8.netlify.app/checkout
+
+
 ## Available Scripts
 
 In the project directory, you can run:
