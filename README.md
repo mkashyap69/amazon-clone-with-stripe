@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Site Deployed At
-https://serene-swirles-f597a8.netlify.app/checkout
+https://serene-swirles-f597a8.netlify.app
 
 
 ## Available Scripts
